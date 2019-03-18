@@ -42,7 +42,7 @@ You can reach the maintainers of this project at:
 
 ### Code of conduct
 
-Participation in the Kojo community is governed by the [Kojo Code of Conduct](code-of-conduct.md).
+Participation in the Kojo community is governed by the [Kojo Code of Conduct](CODE-OF-CONDUCT.md).
 
 ## Thank you!
 
